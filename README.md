@@ -14,4 +14,4 @@ The goal is to create a PiggyBack module to a standard "CP2102 USB module" and t
 
 The CP2102 USB module needs to be modified. The 90 angel pins needs to be desoldered and replaced with a 1x6 female pin header.
 
-
+![img](cp2102-02.png)
